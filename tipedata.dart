@@ -1,10 +1,10 @@
 void main (){
   String nama = 'Prabowo';
-  int angka = 100;
-  bool 
+  int umur = 100;
+  bool belummenikah = false;
 
   var nama1 = 'Deni';
-  var angka1 =  100;
+  var umur1 =  100;
 
-  print ('halo nama saya $nama. umur saya ');
+  print ('halo nama saya $nama. umur saya $umur.sudah menikah $belummenikah ');
 }
